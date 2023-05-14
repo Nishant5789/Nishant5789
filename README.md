@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 👨‍💻 All of my projects are available at [Nishant5789.github.com](https://github.com/Nishant5789?tab=repositories)
+- 👨‍💻 All of my projects are available at [Nishant's Portfolio](portfolio2-five-lilac.vercel.app)
 
 - 📫 How to reach me **nishantbhandari218@gmail.com**
 
